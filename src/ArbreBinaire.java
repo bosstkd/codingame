@@ -17,7 +17,6 @@ public class ArbreBinaire {
 		    bt.add(7);
 		    bt.add(9);
 		    
-		    System.out.println(2>>1);
 		    
 		    ArrayList l = new ArrayList(2);
 		    l.add(1);
